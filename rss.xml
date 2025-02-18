@@ -2,17 +2,17 @@
 <rss version="2.0">
     <channel>
         <title>Noticias de Música</title>
-        <link>http://tusitio.com/noticias</link>
+        <link>https://github.dev/giannacm06/noticias_grammys/blob/38b5ff58b60db3727b3d4eeadce2f5a55739b834/noticia_lliurament5.html</link>
         <description>Últimas noticias y actualizaciones del mundo de la música</description>
         <language>es-ES</language>
         <image>
-            <url>http://tusitio.com/logo.png</url>
+            <url>https://github.dev/giannacm06/noticias_grammys/blob/38b5ff58b60db3727b3d4eeadce2f5a55739b834/noticia_lliurament5.html</url>
             <title>Noticias de Música</title>
-            <link>http://tusitio.com</link>
+            <link>https://github.com/giannacm06/noticias_grammys/blob/38b5ff58b60db3727b3d4eeadce2f5a55739b834/noticia_lliurament5.html</link>
         </image>
         <item>
             <title>Premios Grammy 2025: Ganadores Destacados</title>
-            <link>http://tusitio.com/noticias/grammy-2025-ganadores</link>
+            <link>https://github.dev/giannacm06/noticias_grammys/blob/38b5ff58b60db3727b3d4eeadce2f5a55739b834/noticia_lliurament5.html</link>
             <description><![CDATA[
                 <h2>Beyoncé se lleva el Álbum del Año</h2>
                 <p><strong>Beyoncé</strong> ha ganado el codiciado premio al <strong>Álbum del Año</strong> por su disco <em>"Cowboy Carter"</em>, convirtiéndose en la artista más galardonada en la historia de los Grammy.</p>
@@ -24,7 +24,7 @@
                 <p>Durante la ceremonia, se rindió un emotivo homenaje al legendario productor <strong>Quincy Jones</strong>, con actuaciones de artistas como Stevie Wonder, Cynthia Erivo, Janelle Monáe, Lainey Wilson y Herbie Hancock.</p>
             ]]></description>
             <pubDate>Tue, 18 Feb 2025 18:13:09 +0100</pubDate>
-            <guid>http://tusitio.com/noticias/grammy-2025-ganadores</guid>
+            <guid>https://github.dev/giannacm06/noticias_grammys/blob/38b5ff58b60db3727b3d4eeadce2f5a55739b834/noticia_lliurament5.html</guid>
         </item>
     </channel>
 </rss>
