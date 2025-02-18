@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias de Música</title>
+        <link>http://tusitio.com/noticias</link>
+        <description>Últimas noticias y actualizaciones del mundo de la música</description>
+        <language>es-ES</language>
+        <image>
+            <url>http://tusitio.com/logo.png</url>
+            <title>Noticias de Música</title>
+            <link>http://tusitio.com</link>
+        </image>
+        <item>
+            <title>Premios Grammy 2025: Ganadores Destacados</title>
+            <link>http://tusitio.com/noticias/grammy-2025-ganadores</link>
+            <description><![CDATA[
+                <h2>Beyoncé se lleva el Álbum del Año</h2>
+                <p><strong>Beyoncé</strong> ha ganado el codiciado premio al <strong>Álbum del Año</strong> por su disco <em>"Cowboy Carter"</em>, convirtiéndose en la artista más galardonada en la historia de los Grammy.</p>
+                <h2>Kendrick Lamar triunfa con cinco premios</h2>
+                <p><strong>Kendrick Lamar</strong> ha sido el gran vencedor de la noche, llevándose cinco premios, incluyendo <strong>Disco del Año</strong> y <strong>Canción del Año</strong> por <em>"Not Like Us"</em>.</p>
+                <h2>Chappell Roan, Mejor Artista Revelación</h2>
+                <p><strong>Chappell Roan</strong> ha sido reconocida como la <strong>Mejor Artista Revelación</strong>, destacándose por su talento y originalidad en la escena musical actual.</p>
+                <h2>Homenaje a Quincy Jones</h2>
+                <p>Durante la ceremonia, se rindió un emotivo homenaje al legendario productor <strong>Quincy Jones</strong>, con actuaciones de artistas como Stevie Wonder, Cynthia Erivo, Janelle Monáe, Lainey Wilson y Herbie Hancock.</p>
+            ]]></description>
+            <pubDate>Tue, 18 Feb 2025 18:13:09 +0100</pubDate>
+            <guid>http://tusitio.com/noticias/grammy-2025-ganadores</guid>
+        </item>
+    </channel>
+</rss>
